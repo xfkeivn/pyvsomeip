@@ -3,3 +3,9 @@
 ################################################################################
 
 /x64/Release/__pycache__
+/x64/Release/.idea
+/pyVSomeIp/Debug
+/pyVSomeIp/x64/Release/pyVSomeIp.tlog
+/pyVSomeIp/x64/Release
+/Debug
+/.vs/pyVSomeIp/v15
